@@ -1,0 +1,7 @@
+/node_modules
+node_modules/
+/frontend/node_modules/
+.env
+PORT=5000
+MONGO_URI=mongodb://localhost:27017
+JWT_SECRET=prem
