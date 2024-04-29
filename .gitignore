@@ -3,5 +3,5 @@ node_modules/
 /frontend/node_modules/
 .env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017
+MONGO_URI=mongodb+srv://premjaina07:hb@14333@prem123.rvxw98u.mongodb.net/?retryWrites=true&w=majority&appName=Prem123
 JWT_SECRET=prem
