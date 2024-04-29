@@ -141,8 +141,8 @@ function SideDrawer() {
             </Text>
           </Button>
         </Tooltip>
-        <Text fontSize="2xl" fontFamily="Work sans">
-        Chai पे Charcha
+        <Text fontSize="3xl" fontFamily="Times new roman">
+        <strong>Chai पे Charcha</strong>
         </Text>
         <div>
           <Menu>
